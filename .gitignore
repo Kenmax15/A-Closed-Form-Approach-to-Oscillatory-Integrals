@@ -1,0 +1,23 @@
+# Ignore Mathematica backup and cache files
+*.nb~
+*.bak
+*.tmp
+*.old
+*.mx
+
+# Ignore auto-generated files
+*.out
+*.log
+*.aux
+*.blg
+*.toc
+*.gz
+*.pdf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore exported content or generated results
+Export/
+Figures/

@@ -1,0 +1,105 @@
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[         0,          0]
+NotebookDataLength[      3718,        104]
+NotebookOptionsPosition[      2844,         69]
+NotebookOutlinePosition[      3293,         86]
+CellTagsIndexPosition[      3250,         83]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\<\
+Closed-Form Approach to Oscillatory Integrals in Level-Crossing Physics\
+\>", "Title",
+ CellChangeTimes->{{3.8220383111721973`*^9, 3.8220383298206387`*^9}, 
+   3.824533858736574*^9, {3.834034051848325*^9, 3.834034063975806*^9}, {
+   3.8394822757345324`*^9, 3.839482290130147*^9}, 3.9594140141558285`*^9}],
+
+Cell["Analytical Analysis", "Subtitle",
+ CellChangeTimes->{{3.822039182768818*^9, 3.822039191424511*^9}, {
+  3.822039232049477*^9, 3.8220392451456757`*^9}, {3.959414156439172*^9, 
+  3.959414174772687*^9}}],
+
+Cell["Maseim Bassis Kenmoe", "Author",
+ CellChangeTimes->{{3.822038363348856*^9, 3.8220383643170633`*^9}, {
+  3.822039173152628*^9, 3.822039177112678*^9}}],
+
+Cell["University of Dschang", "Department",
+ CellChangeTimes->{{3.822038338732815*^9, 3.822038348460959*^9}, {
+  3.9594140393655977`*^9, 3.9594140434659185`*^9}}],
+
+Cell["20.06.2025", "Date",
+ CellChangeTimes->{{3.822038353749001*^9, 3.822038358557015*^9}, {
+  3.824533874097271*^9, 3.824533882913252*^9}, {3.8340340725611477`*^9, 
+  3.834034080729145*^9}, {3.837828353638421*^9, 3.8378283642623262`*^9}, {
+  3.959414026968913*^9, 3.959414035542057*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["I. Modified Parabolic Cylinder Weber functions", "Section",
+ CellChangeTimes->{{3.822038368925124*^9, 3.822038376997286*^9}, {
+  3.834034087968937*^9, 3.834034093160975*^9}, {3.8394823201710453`*^9, 
+  3.839482352172256*^9}, {3.9594140616545725`*^9, 3.959414076905899*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["Definitions", "Subsection",
+ CellChangeTimes->{{3.822038385070116*^9, 3.822038417244771*^9}, {
+  3.822038668385461*^9, 3.822038670681477*^9}, {3.8340343289491568`*^9, 
+  3.834034331693519*^9}, {3.9594140827428803`*^9, 3.959414084465356*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.8220385244874563`*^9, 3.8220385715531263`*^9}, {
+   3.82203864273869*^9, 3.822038663881768*^9}, {3.822038844185421*^9, 
+   3.822038855300909*^9}, 3.8220392729143457`*^9, 3.822109376704856*^9, {
+   3.8245248489274473`*^9, 3.8245248603829527`*^9}, {3.824533923142169*^9, 
+   3.8245339235565233`*^9}, {3.824533977948617*^9, 3.824534009958205*^9}, {
+   3.834034266542947*^9, 3.834034304100747*^9}, {3.834034344796916*^9, 
+   3.834034348237406*^9}, {3.845732081557106*^9, 3.8457323234199066`*^9}, {
+   3.84595516841059*^9, 3.8459551722907267`*^9}, {3.898219162064765*^9, 
+   3.898219163993655*^9}, 3.9594140897122564`*^9}]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1536, 773},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+Magnification:>1.1 Inherited,
+FrontEndVersion->"10.0 for Microsoft Windows (64-bit) (July 1, 2014)",
+StyleDefinitions->FrontEnd`FileName[{"Report"}, "StandardReport.nb", 
+  CharacterEncoding -> "WindowsANSI"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[422, 15, 314, 5, 157, "Title"],
+Cell[739, 22, 205, 3, 33, "Subtitle"],
+Cell[947, 27, 155, 2, 44, "Author"],
+Cell[1105, 31, 162, 2, 19, "Department"],
+Cell[1270, 35, 289, 4, 48, "Date"],
+Cell[CellGroupData[{
+Cell[1584, 43, 279, 3, 71, "Section"],
+Cell[CellGroupData[{
+Cell[1888, 50, 247, 3, 33, "Subsection"],
+Cell[2138, 55, 666, 9, 42, "Input"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
