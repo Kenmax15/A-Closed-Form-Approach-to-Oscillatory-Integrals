@@ -12,6 +12,7 @@ This repository aims at presenting a Mathematica program for analytically calcul
 1. Open a Mathematica `Notebook.nb` on your computer or go to [Wolfram Mathematica](https://www.wolfram.com/mathematica/) and create an account.
 2. Evaluate the cells step by step or run the whole notebook using `Evaluation → Evaluate Notebook`.
 3. To execute the .wl file, call it using Get["\\$Path_to_file\\file_name.wl"]. Pass the order of the derivative to the function and collect the result.
+4. The package OscillatoryIntegralAnalytical.wl uses DerivativeOfModulusOfPCF.wl. In order to properly use the former, the later must be first called.
 
 ## 🛠 Requirements
 
